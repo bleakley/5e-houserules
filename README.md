@@ -2,11 +2,10 @@
 This document contains rules for 5th Edition D&amp;D.
 
 ## Character Creation
-There are two options for character creation. Option 2 is for for players with a specific character type in mind before they roll for stats.
-### Option 1:
-Before selecting a race or class, roll 3d6 in order for your initial ability scores. If any is below 7, you may replace it with a 7. You may then replace one of your initial scores with a 14 and another with a 13.
-### Option 2:
-Select your character class. Then, before selecting a race, roll 3d6 in order for your initial ability scores. You may replace any score below the corresponding minimum for your class with any score up to and including that minimum.
+1. Before selecting a race or class, roll 3d6 for your initial ability scores. Assign them, without rearranging the order, to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+2. Select your race and apply any ability score modifiers it grants.
+3. Select your class. If desired, you may increase any of your ability scores up to the level shown in the table below.
+
 |         |Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |---------|---|---|---|---|---|---|
 | Fighter |14|14|10|7|7|7|
@@ -17,7 +16,7 @@ Select your character class. Then, before selecting a race, roll 3d6 in order fo
 | Ranger  |14|14|10|7|10|7|
 | Paladin |14|8|10|7|12|14|
 | Bard  |8|14|10|12|8|14|
-| Sorceror  |8|8|10|10|10|14|
+| Sorceror  |7|7|10|10|10|14|
 | Barbarian |14|10|14|7|7|7|
 | Warlock  |7|7|10|12|12|14|
 | Monk  |10|14|10|8|14|7|
