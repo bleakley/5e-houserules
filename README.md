@@ -1,24 +1,12 @@
 # House rules
-This document contains rules for 5th Edition D&amp;D. Before listing the rules themselves, here's a quick preamble explaining the need for them and how they impact character creation and play.
-
-#### Character Creation
-The character creation house rules are not intended to make characters weaker. Other than the removal of the Sharpshooter feat, all of the changes either result in stronger characters or are largely neutral. The new stat rolling methods are intended to produce characters with unexpected strengths. Both the point-buy and roll-and-rearrange have weaknesses that prevent certain character types from being viable. Consider a character with very high Strength and Dexterity. Because both stats can be used to increase a characters attack bonus and armor class (either via raw bonus or strength requirements for heavy armor), high Strength and high Dexterity are redundant. Other stats are significantly less valuable for certain classes. For example, a fighter benefits from an 18 Charisma much less than a bard.
-
-Because of this, any player who choses to give his newly created fighter a high Charisma or both a high Strength and high Dexterity when using either point-buy or roll-and-rearrange is intentionally building a character with a major disadvantage. In a cooperative game like D&D, this may cause resentment from other players, who are relying on the fighter to be powerful and keep them safe in battle. Now we have a situation where one of the most archetypical fantasy heroes imaginable- the strong, quick, and charming warrior- cannot be built using the two primary character creation methods in 5th edition.
-
-The classic 3d6-in-order method *can* produce any sort of character, however it often produces characters that have extreme weaknesses and are unplayable. The two methods below will *always* produce a playable character.
-
-#### Gameplay
-The most significant gameplay house rule is the alternate resting rule. The standard resting rules are problematic because characters recover spells and hp too quickly. When traveling overland, any combat encounter that does not kill a character or force the permanent expenditure of a magic item has no effect on the journey- the next day the characters are fine. This makes it impossible for the party to have a long journey of attrition such the Fellowship in LotR.
-
-The DMG provides a "Gritty Realism" rule where a long rest is one week and short rest is overnight. Unfortunately there are problems with this method. Spell durations assume the use of the standard resting rules. The *mage armor* spell would need its duration increased to 5 days or more to not be made significantly worse by the DMG's rules. There are many spells and abilities like this, and they would each need to reviewed and rewritten. Furthermore, most published adventures and dungeons assume the use of the normal resting rules. It's much harder to bring in pre-made content using the "Gritty Realism" rules.
+This document contains rules for 5th Edition D&amp;D.
 
 ## Character Creation
 There are two options for character creation. Option 2 is for for players with a specific character type in mind before they roll for stats.
 ### Option 1:
-Before selecting a class, roll 3d6 in for your initial ability scores. If any is below 7, you may replace it with a 7. You may then replace one of your initial scores with a 14 and another with a 13.
+Before selecting a race or class, roll 3d6 in order for your initial ability scores. If any is below 7, you may replace it with a 7. You may then replace one of your initial scores with a 14 and another with a 13.
 ### Option 2:
-Select your character class. Then, roll 3d6 in order for your initial ability scores. You may replace any score below the corresponding minimum for your class with any score up to and including that minimum.
+Select your character class. Then, before selecting a race, roll 3d6 in order for your initial ability scores. You may replace any score below the corresponding minimum for your class with any score up to and including that minimum.
 |         |Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |---------|---|---|---|---|---|---|
 | Fighter |14|14|10|7|7|7|
@@ -60,7 +48,7 @@ The maximum size and CR of the companion increase with the beastmaster’s level
 | Level 11 | Huge | CR 2, and the companion can be commanded to multiattack |
 
 ### Spell Changes
-|     |     |
+| Spell | Change |
 | --- | --- |
 | *vicious mockery* | This spell is on the Wizard spell list. |
 | *comprehend languages* | This spell is a Knowledge domain spell. |
@@ -89,14 +77,15 @@ Clerics do not have access to sacred flame by default. Instead, each Cleric doma
 ## Rule Changes
 
 ### Alternate Resting Rules
-The time required for a short rest is reduced to 1 minute. Unless a character spends at least 1 hit die, he gains no benefit from a short rest.
+Characters can only take a long rest if they have the following amenities:
+* Cooked food.
+* A bed.
+* Comfortable temperature and no exposure to inclement weather.
 
-Long rests do not recover hit dice. A character can recover a single hit die after spending one full day of downtime resting in a civilized area with food, water, and shelter.
-
-When taking a long rest, a character may either a) spend a hit die and gain the full benefit of the long rest (save that hit die are not recovered), or b) do not spend a hit die and gain the only the benefit of a short rest, with one free hit die roll to recover hit points.
+Characters that rest overnight without these amenities merely gain the benefit of a short rest, however they recover hit points as if they spent one additional hit die.
 
 ### Alternate Healing Rule
-If a character is unconscious at 0 hit points and then healed, he is stunned for 1 round and is prone (until he spends half his movement to stand up, as normal).
+If a character is unconscious at 0 hit points and then healed, he is moved to the end of the initiative queue, stunned for 1 round, and is prone (until he spends half his movement to stand up, as normal).
 
 ### Lingering Injuries
 If a character drops to 0 hit points or suffers a critical hit, they must roll on the Lingering Injuries table. If a PC is rolling on the table as the result of a critical hit, they roll with advantage. NPCs never roll with advantage. The table has been modified slightly from its form in the DMG to reduce the likelihood of horrible scars, and increase the likelihood of broken ribs. If a result is ever rolled that is not consistent with the form of damage suffered, the result is ignored.
