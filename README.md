@@ -24,6 +24,14 @@ This document contains rules for 5th Edition D&amp;D.
 ### Feat Changes
 #### Resilient
 If a character with this feat would later gain proficiency in the chosen ability through a class feature such as Diamond Soul or Slippery Mind, he may instead increase that ability score by 1.
+#### Lightly Armored
+If a character with this feat would later gain proficiency in light armor for another reason, he may instead increase his Strength or Dexterity by 1.
+#### Moderately Armored
+If a character with this feat would later gain proficiency in medium armor for another reason, he may instead increase his Strength or Dexterity by 1.
+#### Heavily Armored
+If a character with this feat would later gain proficiency in heavy armor for another reason, he may instead increase his Strength by 1.
+#### Weapon Master
+If a character with this feat would later gain proficiency in all martial weapons for another reason, he may increase his Strength or Dexterity by 1.
 #### Great Weapon Master
 The bonus attack granted on a critical hit or reducing a creature to zero hit points can only be used against a different creature.
 #### Sharpshooter
