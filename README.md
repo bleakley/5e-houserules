@@ -28,6 +28,8 @@ If a character with this feat would later gain proficiency in the chosen ability
 The bonus attack granted on a critical hit or reducing a creature to zero hit points can only be used against a different creature.
 #### Sharpshooter
 This feat is not available.
+#### Lucky
+This feat is not available.
 
 ### Class Changes
 #### Druid
